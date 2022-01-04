@@ -1,0 +1,1906 @@
+{
+	"1":[
+		  {
+	        "value": "106",
+	        "textContent": "مصر القديمة",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "107",
+	        "textContent": "قسم  السيدة زينب",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "108",
+	        "textContent": "قسم  الخليفة",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "109",
+	        "textContent": "قسم عابدين",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "110",
+	        "textContent": "قسم الموسكى",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "111",
+	        "textContent": "قسم  قصر النيل",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "112",
+	        "textContent": "قسم بولاق",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "113",
+	        "textContent": "قسم  الأزبكية",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "114",
+	        "textContent": "قسم  الدرب الأحمر",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "115",
+	        "textContent": "قسم  الجمالية",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "116",
+	        "textContent": "قسم  باب الشعرية",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "117",
+	        "textContent": "قسم  الظاهر",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "118",
+	        "textContent": "قسم  الشرابية",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "119",
+	        "textContent": "قسم شبرا",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "120",
+	        "textContent": "قسم روض الفرج",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "121",
+	        "textContent": "قسم الساحل",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "122",
+	        "textContent": "قسم الوايلى",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "123",
+	        "textContent": "قسم حدائق القبة",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "124",
+	        "textContent": "قسم الزيتون",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "125",
+	        "textContent": "قسم المطرية",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "126",
+	        "textContent": "مدينة نصر",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "127",
+	        "textContent": "قسم  ثان مدينة نصر",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "128",
+	        "textContent": "مصر الجديدة",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "129",
+	        "textContent": "قسم النزهة",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "130",
+	        "textContent": "قسم عين شمس",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "131",
+	        "textContent": "قسم الزاوية الحمراء",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "132",
+	        "textContent": "قسم السلام",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "133",
+	        "textContent": "قسم الزمالك",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "134",
+	        "textContent": "منشأة ناصر",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "135",
+	        "textContent": "قسم  البساتين",
+	        "-self-closing": "true"
+	      },
+	      {
+	        "value": "136",
+	        "textContent": "قسم المرج",
+	        "-self-closing": "true"
+	      }			
+	],
+	"2":[
+ 		{
+        "value": "201",
+        "textContent": "قسم  المنتزة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "202",
+        "textContent": "قسم أول  الرمل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "203",
+        "textContent": "قسم  سيدى جابر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "204",
+        "textContent": "قسم  باب شرقى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "205",
+        "textContent": "قسم  محرم بك",
+        "-self-closing": "true"
+      },
+      {
+        "value": "206",
+        "textContent": "قسم  العطارين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "207",
+        "textContent": "قسم  المنشية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "208",
+        "textContent": "قسم  كرموز",
+        "-self-closing": "true"
+      },
+      {
+        "value": "209",
+        "textContent": "قسم  اللبان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "210",
+        "textContent": "قسم  الجمرك",
+        "-self-closing": "true"
+      },
+      {
+        "value": "211",
+        "textContent": "قسم  مينا البصل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "212",
+        "textContent": "قسم  الدخيلة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "213",
+        "textContent": "قسم  العامرية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "214",
+        "textContent": "قسم  برج العرب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "215",
+        "textContent": "اداره شرطه ميناء الأسكندريه",
+        "-self-closing": "true"
+      },
+      {
+        "value": "216",
+        "textContent": "مدينه برج العرب الجديده",
+        "-self-closing": "true"
+      },
+      {
+        "value": "217",
+        "textContent": "قسم ثان الرمل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "218",
+        "textContent": "الساحل الشمالى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "219",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      }		
+	],
+	"3":[
+	 {
+        "value": "301",
+        "textContent": "قسم الشرق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "302",
+        "textContent": "قسم العرب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "303",
+        "textContent": "قسم المناخ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "304",
+        "textContent": "قسم بور فؤاد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "305",
+        "textContent": "قسم الضواحى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "306",
+        "textContent": "قسم الجنوب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "307",
+        "textContent": "قسم الزهور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "308",
+        "textContent": "قسم ثان بور فؤاد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "309",
+        "textContent": "قسم مبارك - شرق التفريعة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "310",
+        "textContent": "قسم المناصرة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "311",
+        "textContent": "قسم ثان الجنوب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "312",
+        "textContent": "إدارة شرطة ميناء بورسعيد",
+        "-self-closing": "true"
+      }		
+	],
+	"4":[
+ 		{
+        "value": "401",
+        "textContent": "قسم السويس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "402",
+        "textContent": "قسم الأربعين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "403",
+        "textContent": "قسم عتاقة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "404",
+        "textContent": "قسم فيصل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "405",
+        "textContent": "قسم الجناين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "406",
+        "textContent": "إدارة شرطة ميناء السويس",
+        "-self-closing": "true"
+      }		
+	],
+	"5":[
+ {
+        "value": "501",
+        "textContent": "قسم  التبين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "502",
+        "textContent": "قسم حلوان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "503",
+        "textContent": "قسم15 مايو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "504",
+        "textContent": "قسم المعادى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "505",
+        "textContent": "قسم  طره",
+        "-self-closing": "true"
+      },
+      {
+        "value": "506",
+        "textContent": "قسم الأهرام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "537",
+        "textContent": "قسم أول القاهرة الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "538",
+        "textContent": "قسم ثان القاهرة الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "539",
+        "textContent": "قسم ثالث القاهرة الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "540",
+        "textContent": "قسم  الشروق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "541",
+        "textContent": "قسم  بدر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "545",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "555",
+        "textContent": "خارج الزمام ",
+        "-self-closing": "true"
+      }		
+	],
+	"11":[
+		{
+        "value": "1101",
+        "textContent": "قسم اول دمياط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1102",
+        "textContent": "مركز دمياط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1103",
+        "textContent": "مركز فارسكور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1104",
+        "textContent": "مركز كفر سعد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1105",
+        "textContent": "قسم مدينه دمياط الجديده",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1106",
+        "textContent": "قسم رأس البر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1107",
+        "textContent": "مركز الزرقا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1108",
+        "textContent": "إداره شرطه ميناء دمياط الجديد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1109",
+        "textContent": "قسم ثان دمياط",
+        "-self-closing": "true"
+      }
+	],
+	"12":[
+{
+        "value": "1201",
+        "textContent": "قسم اول المنصورة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1202",
+        "textContent": "قسم ثان المنصورة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1203",
+        "textContent": "مركز المنصورة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1204",
+        "textContent": "مركز أجا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1205",
+        "textContent": "مركز السنبلاوين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1206",
+        "textContent": "مركز المطرية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1207",
+        "textContent": "مركز المنزلة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1208",
+        "textContent": "مركز بلقاس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1209",
+        "textContent": "مركز دكرنس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1210",
+        "textContent": "مركز شربين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1211",
+        "textContent": "مركز طلخا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1212",
+        "textContent": "قسم ميت غمر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1213",
+        "textContent": "مركز ميت غمر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1214",
+        "textContent": "مركز منية النصر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1215",
+        "textContent": "مركز الجمالية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1216",
+        "textContent": "مركز تمى الأمديد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1217",
+        "textContent": "مركز ميت سلسيل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1218",
+        "textContent": "مركز بنى عبيد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1219",
+        "textContent": "مركز محلة دمنة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1220",
+        "textContent": "قسم جمصة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1221",
+        "textContent": "مركزنبروة",
+        "-self-closing": "true"
+      }		
+	],
+	"13":[
+ 		{
+        "value": "1301",
+        "textContent": "قسم اول الزقازيق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1302",
+        "textContent": "قسم ثان الزقازيق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1303",
+        "textContent": "مركز الزقازيق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1304",
+        "textContent": "مركز أبو حماد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1305",
+        "textContent": "مركز أبوكبير",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1306",
+        "textContent": "مركز الحسينية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1307",
+        "textContent": "قسم الصالحية الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1308",
+        "textContent": "مركز بلبيس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1309",
+        "textContent": "قسم أول مدينه عشره رمضان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1310",
+        "textContent": "مركز ديرب نجم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1311",
+        "textContent": "قسم فاقوس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1312",
+        "textContent": "مركز فاقوس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1313",
+        "textContent": "مركز كفر صقر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1314",
+        "textContent": "مركز منيا القمح",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1315",
+        "textContent": "مركز ههيا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1316",
+        "textContent": "مركز مشتول السوق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1317",
+        "textContent": "مركز الأبراهيمية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1318",
+        "textContent": "قسم القنايات",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1319",
+        "textContent": "مركز أولاد صقر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1320",
+        "textContent": "قسم القرين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1321",
+        "textContent": "قسم ثان مدينه عشره رمضان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1322",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      }		
+	],
+	"14":[
+{
+        "value": "1401",
+        "textContent": "قسم بنها",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1402",
+        "textContent": "مركز بنها",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1403",
+        "textContent": "مركز الخانكة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1404",
+        "textContent": "مركز القناطر الخيرية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1405",
+        "textContent": "مركز شبين القناطر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1406",
+        "textContent": "قسم أول شبرا الخيمة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1407",
+        "textContent": "قسم ثان شبرا الخيمة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1408",
+        "textContent": "مركز طوخ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1409",
+        "textContent": "قسم قليوب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1410",
+        "textContent": "مركز قليوب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1411",
+        "textContent": "مركز كفر شكر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1412",
+        "textContent": "قسم الخصوص",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1413",
+        "textContent": "قسم العبور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1414",
+        "textContent": "قسم قها",
+        "-self-closing": "true"
+      }		
+	],
+	"15":[
+		 {
+        "value": "1501",
+        "textContent": "قسم كفر الشيخ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1502",
+        "textContent": "مركز كفر الشيخ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1503",
+        "textContent": "مركز البرلس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1504",
+        "textContent": "مركز بيلا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1505",
+        "textContent": "قسم دسوق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1506",
+        "textContent": "مركز دسوق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1507",
+        "textContent": "مركز سيدى سالم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1508",
+        "textContent": "مركز فوه",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1509",
+        "textContent": "مركز قلين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1510",
+        "textContent": "مركز مطوبس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1511",
+        "textContent": "مركز الحامول",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1512",
+        "textContent": "مركز الرياض",
+        "-self-closing": "true"
+      }
+	],
+	"16":[
+ 	  {
+        "value": "1601",
+        "textContent": "قسم أول طنطا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1602",
+        "textContent": "قسم ثان طنطا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1603",
+        "textContent": "مركز طنطا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1604",
+        "textContent": "مركز السنطة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1605",
+        "textContent": "قسم أول المحلة الكبرى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1606",
+        "textContent": "قسم ثان المحلة الكبرى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1607",
+        "textContent": "مركز المحله الكبرى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1608",
+        "textContent": "مركز بسيون",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1609",
+        "textContent": "مركز زفتى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1610",
+        "textContent": "مركز سمنود",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1611",
+        "textContent": "مركز قطور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1612",
+        "textContent": "مركز كفر الزيات",
+        "-self-closing": "true"
+      }		
+	],
+	"17":[
+ {
+        "value": "1701",
+        "textContent": "قسم شبين الكوم ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1702",
+        "textContent": "مركز شبين الكوم ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1703",
+        "textContent": "مركز أشمون ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1704",
+        "textContent": "مركز الباجور ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1705",
+        "textContent": "مركز الشهداء ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1706",
+        "textContent": "مركز بركة السبع ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1707",
+        "textContent": "مركز تلا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1708",
+        "textContent": "مركز قويسنا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1709",
+        "textContent": "مركز منوف ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1710",
+        "textContent": "قسم مدينة سرس الليانة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1711",
+        "textContent": "مركز السادات",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1712",
+        "textContent": "قسم مدينة منوف ",
+        "-self-closing": "true"
+      }		
+	],
+	"18":[
+ {
+        "value": "1801",
+        "textContent": "قسم دمنهور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1802",
+        "textContent": "مركز دمنهور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1803",
+        "textContent": "مركز ابوالمطامير",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1804",
+        "textContent": "مركز ابوحمص",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1805",
+        "textContent": "مركز الدلنجات",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1806",
+        "textContent": "مركز المحمودية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1807",
+        "textContent": "مركز إيتاى البارود",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1808",
+        "textContent": "مركز حوش عيسى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1809",
+        "textContent": "مركز رشيد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1810",
+        "textContent": "مركز شبراخيت",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1811",
+        "textContent": "قسم كفرالدوار",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1812",
+        "textContent": "مركز كفر الدوار",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1813",
+        "textContent": "مركز كوم حمادة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1814",
+        "textContent": "مركز وادى النطرون",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1815",
+        "textContent": "مركز الرحمانية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1816",
+        "textContent": "مركز إدكو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1817",
+        "textContent": "قسم غرب النوبارية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1818",
+        "textContent": "مركز بدر",
+        "-self-closing": "true"
+      }		
+	],
+	"19":[
+		{
+        "value": "1901",
+        "textContent": "قسم أول الاسماعيلية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1902",
+        "textContent": "قسم ثان الاسماعيلية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1903",
+        "textContent": "قسم ثالث الاسماعيلية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1904",
+        "textContent": "مركز الاسماعيلية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1905",
+        "textContent": "مركز التل الكبير",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1906",
+        "textContent": "مركز القنطرة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1907",
+        "textContent": "مركز فايد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "1908",
+        "textContent": "قسم القنطرة شرق",
+        "-self-closing": "true"
+      }		
+	],
+	"21":[
+{
+        "value": "2101",
+        "textContent": "قسم امبابه",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2102",
+        "textContent": "قسم العجوزة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2103",
+        "textContent": "قسم الدقى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2104",
+        "textContent": "قسم الجيزة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2105",
+        "textContent": "قسم بولاق الدكرور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2106",
+        "textContent": "قسم الأهرام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2107",
+        "textContent": "قسم أول 6 أكتوبر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2108",
+        "textContent": "قسم الحوامدية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2109",
+        "textContent": "مركز الجيزة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2110",
+        "textContent": "مركز البدرشين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2111",
+        "textContent": "مركز الصف",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2112",
+        "textContent": "مركز العياط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2113",
+        "textContent": "مركز إمبابة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2114",
+        "textContent": "قسم الواحات البحرية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2115",
+        "textContent": "مركز أطفيح",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2116",
+        "textContent": "مركز أوسيم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2117",
+        "textContent": "قسم الوراق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2118",
+        "textContent": "قسم العمرانية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2119",
+        "textContent": "قسم الشيخ زايد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2120",
+        "textContent": "مركز كرداسة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2121",
+        "textContent": "قسم ثان 6 أكتوبر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2122",
+        "textContent": "خلرج الزمام",
+        "-self-closing": "true"
+      }		
+	],
+	"22":[
+		 {
+        "value": "2201",
+        "textContent": "قسم بنى سويف",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2202",
+        "textContent": "مركز بنى سويف",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2203",
+        "textContent": "قسم مدينة بنى سويف الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2204",
+        "textContent": "مركز الفشن",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2205",
+        "textContent": "مركز الواسطى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2206",
+        "textContent": "مركز أهناسيا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2207",
+        "textContent": "مركز ببا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2208",
+        "textContent": "مركز سمسطا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2209",
+        "textContent": "مركز ناصر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2210",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2211",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2212",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      }
+	],
+	"23":[
+{
+        "value": "2301",
+        "textContent": "قسم الفيوم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2302",
+        "textContent": "مركز الفيوم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2303",
+        "textContent": "مركز أبشواى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2304",
+        "textContent": "مركز أطسا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2305",
+        "textContent": "مركز سنورس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2306",
+        "textContent": "مركز طامية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2307",
+        "textContent": "مركز يوسف الصديق",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2308",
+        "textContent": "مدينة الفيوم الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2309",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      }		
+	],
+	"24":[
+ 	{
+        "value": "2401",
+        "textContent": "قسم المنيا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2402",
+        "textContent": "مركز المنيا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2403",
+        "textContent": "مدينة المنيا الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2404",
+        "textContent": "مركز ابو قرقاص",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2405",
+        "textContent": "مركز العدوة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2406",
+        "textContent": "مركز بنى مزار",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2407",
+        "textContent": "مركز دير مواس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2408",
+        "textContent": "مركز سمالوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2409",
+        "textContent": "مركز مطاى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2410",
+        "textContent": "مركز مغاغة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2411",
+        "textContent": "قسم ملوى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2412",
+        "textContent": "مركز ملوى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2414",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2415",
+        "textContent": "خارج الزمام",
+        "-self-closing": "true"
+      }		
+	],
+	"25":[
+ {
+        "value": "2500",
+        "textContent": "صحراء أسيوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2501",
+        "textContent": "قسم أول أسيوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2502",
+        "textContent": "قسم ثان أسيوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2503",
+        "textContent": "مركز أسيوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2504",
+        "textContent": "مركز أبنوب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2505",
+        "textContent": "مركز أبوتيج",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2506",
+        "textContent": "مركز البدارى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2507",
+        "textContent": "مركز ساحل سليم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2508",
+        "textContent": "مركز الغنايم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2509",
+        "textContent": "مركز القوصية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2510",
+        "textContent": "مركز ديروط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2511",
+        "textContent": "مركز صدفا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2512",
+        "textContent": "مركز منفلوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2513",
+        "textContent": "مركز الفتح",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2514",
+        "textContent": "مدينة اسيوط الجديدة",
+        "-self-closing": "true"
+      }		
+	],
+	"26":[
+ {
+        "value": "2600",
+        "textContent": "صحراء سوهاج",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2601",
+        "textContent": "قسم اول سوهاج",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2602",
+        "textContent": "قسم ثان سوهاج ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2603",
+        "textContent": "مركز سوهاج ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2604",
+        "textContent": "مركز أخميم ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2605",
+        "textContent": "مركز البلينا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2606",
+        "textContent": "مركز المراغة ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2607",
+        "textContent": "مركز المنشأة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2608",
+        "textContent": "مركز دار السلام ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2609",
+        "textContent": "قسم جرجا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2610",
+        "textContent": "مركز جرجا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2611",
+        "textContent": "مركز جهينة الغربية ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2612",
+        "textContent": "مؤكز ساقلته",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2613",
+        "textContent": "مركز طما ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2614",
+        "textContent": "مركز طهطا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2615",
+        "textContent": "قسم طهطا ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2616",
+        "textContent": "قسم الكوثر ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2617",
+        "textContent": "مركز العسيرات ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2618",
+        "textContent": "مدينة أخميم الجديدة ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2619",
+        "textContent": "مدينة سوهاج الجديدة ",
+        "-self-closing": "true"
+      }		
+	],
+	"27":[
+{
+        "value": "2700",
+        "textContent": "صحراء قنا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2701",
+        "textContent": "قسم قنا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2702",
+        "textContent": "مركز قنا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2703",
+        "textContent": "مركز أبو طشت",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2706",
+        "textContent": "مركز دشنا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2707",
+        "textContent": "مركز قوص",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2708",
+        "textContent": "مركز نجع حمادى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2709",
+        "textContent": "مركز نقادة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2710",
+        "textContent": "مركز فرشوط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2711",
+        "textContent": "مركز قفط",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2712",
+        "textContent": "مركز الوقف",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2713",
+        "textContent": "مدينة قنا الجديدة",
+        "-self-closing": "true"
+      }
+	],
+	"28":[
+ {
+        "value": "2801",
+        "textContent": "قسم أسوان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2802",
+        "textContent": "مركز أسوان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2803",
+        "textContent": "مركز أدفو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2804",
+        "textContent": "مركز كوم امبو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2805",
+        "textContent": "مركز نصر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2806",
+        "textContent": "مركز دراو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2807",
+        "textContent": "مركز أبوسنبل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2808",
+        "textContent": "مدينة أسوان الجديدة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2809",
+        "textContent": "مدينة توشكى الجديدة",
+        "-self-closing": "true"
+      }		
+	],
+	"29":[
+	 {
+        "value": "2901",
+        "textContent": "قسم الأقصر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2902",
+        "textContent": "مركز الأقصر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2903",
+        "textContent": "مركز شرطة طيبة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2904",
+        "textContent": "مركز أرمنت",
+        "-self-closing": "true"
+      },
+      {
+        "value": "2905",
+        "textContent": "مركز إسنا",
+        "-self-closing": "true"
+      }		
+	],
+	"31":[
+{
+        "value": "3101",
+        "textContent": "قسم أول الغردقة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3102",
+        "textContent": "قسم القصير",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3103",
+        "textContent": "قسم سفاجا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3104",
+        "textContent": "قسم مرسى علم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3105",
+        "textContent": "قسم رأس غارب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3106",
+        "textContent": "قسم شلاتين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3107",
+        "textContent": "قسم حلايب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3108",
+        "textContent": "قسم ثان الغردقة",
+        "-self-closing": "true"
+      }		
+	],
+	"32":[
+		{
+        "value": "3201",
+        "textContent": "مركز الواحات الخارجة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3202",
+        "textContent": "مركز الوحات الداخلة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3203",
+        "textContent": "مركز الفرافرة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3204",
+        "textContent": "مركز باريس",
+        "-self-closing": "true"
+      }
+ 	],
+ 	"33":[
+ {
+        "value": "3301",
+        "textContent": "قسم مرسى مطروح",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3302",
+        "textContent": "قسم الحمام",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3303",
+        "textContent": "قسم السلوم",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3304",
+        "textContent": "مركز الضبعة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3305",
+        "textContent": "قسم سيدى برانى",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3306",
+        "textContent": "مركز سيوة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3307",
+        "textContent": "قسم مارينا العلمين السياحية",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3308",
+        "textContent": "قسم الساحل الشمالى-جزء",
+        "-self-closing": "true"
+      } 		
+ 	],
+ 	"34":[
+ 		{
+        "value": "3402",
+        "textContent": "قسم ثان العريش",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3403",
+        "textContent": "قسم ثالث العريش",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3404",
+        "textContent": "قسم رابع العريس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3405",
+        "textContent": "قسم بئر العبد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3406",
+        "textContent": "قسم الحسنة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3407",
+        "textContent": "قسم نخل",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3408",
+        "textContent": "قسم الشيخ زويد",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3409",
+        "textContent": "قسم رفح",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3410",
+        "textContent": "قسم رمانة",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3411",
+        "textContent": "قسم القسيمة",
+        "-self-closing": "true"
+      }
+ 	],
+ 	"35":[
+	{
+        "value": "3501",
+        "textContent": "قسم الطور",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3502",
+        "textContent": "قسم راس سدر",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3503",
+        "textContent": "قسم أبو رديس",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3504",
+        "textContent": "قسم سانت كاترين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3505",
+        "textContent": "قسم شرم الشيخ",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3506",
+        "textContent": "قسم دهب",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3507",
+        "textContent": "قسم نويبع",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3508",
+        "textContent": "قسم طابا",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3509",
+        "textContent": "حلوان",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3510",
+        "textContent": "التبين",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3511",
+        "textContent": "مايو",
+        "-self-closing": "true"
+      },
+      {
+        "value": "3512",
+        "textContent": "المعادي",
+        "-self-closing": "true"
+      }		
+ 	]
+
+
+
+}
